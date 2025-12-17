@@ -1,33 +1,23 @@
-# Online Reservation System
-## Internship
-Oasis Infobyte – Java Development Internship (OIBSIP)
-## Task
-Task 1 – Online Reservation System
+# Number Guessing Game (Java)
 ## Description
-This is a console-based Java application developed as part of the Oasis Infobyte internship.
-The system allows users to:
-- Reserve a ticket
-- View ticket details
-- Cancel a ticket
-- Exit the application
-The program uses basic Java concepts such as classes, objects, loops, conditionals, and user input.
+This is a simple console-based Number Guessing Game developed using Java.
+The system generates a random number between 1 and 100, and the user tries to guess it.
+The program gives feedback whether the guess is too high, too low, or correct.
 ## Technologies Used
 - Java
-- JDK (Java Development Kit)
-- Command Line Interface
+- JDK
+- Command Prompt (CMD)
 ## How to Run
-1. Open Command Prompt
-2. Navigate to the project folder
-3. Compile the program:
-   javac OnlineReservationSystem.java
-4. Run the program:
-   java OnlineReservationSystem
-## Output
-The program displays a menu with the following options:
-1. Reserve Ticket
-2. View Ticket
-3. Cancel Ticket
-4. Exit
-Based on user input, the corresponding operation is performed.
-## Author
-Busipoina Jyothika
+1. Compile the program:
+   javac NumberGuessingGame.java
+2. Run the program:
+   java NumberGuessingGame
+## Features
+- Random number generation
+- User input handling
+- Attempt counter
+- Simple console interaction
+## Screenshots
+Screenshots of the program execution are included in the screenshots folder.
+## Internship
+Oasis Infobyte – Java Development Internship
